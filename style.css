@@ -27,15 +27,15 @@ body {
     position: absolute;
     bottom: 40px;
     right: 40px;
+    background-color: brown;
 }
 
 .container2 {
     height: 50%;
     position: relative;
     display: flex;
-    flex-wrap: wrap;
-justify-content: center;    
-background-color: rgb(51, 154, 65);
+    flex-wrap: wrap; 
+    background-color: rgb(51, 154, 65);
 }
 
 #button3 {
@@ -44,4 +44,6 @@ background-color: rgb(51, 154, 65);
     position: absolute;
     bottom: 40px;
     text-align: center;
+    margin-left: 45%;
+    background-color: burlywood;
 }
